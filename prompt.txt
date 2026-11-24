@@ -1,0 +1,3 @@
+Write the funniest one-line warning label for a time machine, at most 120 characters.
+
+The label must read like a genuine safety notice printed on the machine: formal header, plain instruction, straight face. The joke must come from a real time-travel hazard — meeting your own past self, a paradox, a duplicate — turned into the punchline, with the surprise saved for the final words so the laugh lands last. No wasted words, no meta jokes about the contest, no emojis. The program outputs exactly that one line as entry.txt.
